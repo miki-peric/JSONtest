@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "grupa": "Inkluzivno-obrazovanje",
+        "grupa": "Prevencija-nasilja",
         "naslov": "Питање број 2",
         "tekst": ["Овде треба да се попуни текст"],
         "slika": null,
@@ -27,7 +27,7 @@
     },
     {
         "id": 4,
-        "grupa": "Inkluzivno-obrazovanje",
+        "grupa": "Razvojno-planiranje",
         "naslov": "Питање број 4",
         "tekst": ["Овде треба да се попуни текст", "Овде треба да се попуни текст"],
         "slika": null,
@@ -35,8 +35,32 @@
     },
     {
         "id": 5,
-        "grupa": "Inkluzivno-obrazovanje",
+        "grupa": "Standardi-u-obrazovanju",
         "naslov": "Питање број 5",
+        "tekst": ["Овде треба да се попуни текст", "Овде треба да се попуни текст"],
+        "slika": null,
+        "datum": "1.1.2012."
+    },
+    {
+        "id": 6,
+        "grupa": "Samovrednovanje-i-vrednovanje-ustanova",
+        "naslov": "Питање број 6",
+        "tekst": ["Овде треба да се попуни текст", "Овде треба да се попуни текст"],
+        "slika": null,
+        "datum": "1.1.2012."
+    },
+    {
+        "id": 7,
+        "grupa": "Strucno-predagoski-nadzor",
+        "naslov": "Питање број 7",
+        "tekst": ["Овде треба да се попуни текст", "Овде треба да се попуни текст"],
+        "slika": null,
+        "datum": "1.1.2012."
+    },
+    {
+        "id": 8,
+        "grupa": "Strucno-usavrsavanje-i-sticanje-zvanja",
+        "naslov": "Питање број 8",
         "tekst": ["Овде треба да се попуни текст", "Овде треба да се попуни текст"],
         "slika": null,
         "datum": "1.1.2012."
